@@ -1,4 +1,4 @@
-{
+const notesDB= {
     "notes": [
       {
         "title": "beach party at 8pm",
@@ -50,3 +50,5 @@
       }
     ]
   }
+
+  module.exports = { notesDB }
